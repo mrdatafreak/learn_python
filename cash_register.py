@@ -1,3 +1,7 @@
+    """
+    Imagine you were writing an application to help cashiers with their job. Given a certain number of cents, you want to provide a cashier with the smallest number of coins that equal that total. Here's a sample run, to give you an idea of how your program should behave.
+    """
+
 change = float(input("Enter the amount of change: "))
 print(f"For {
       change} złoty, the change given as the smallest number of coins and notes is:")
